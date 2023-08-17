@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/constbrian" target="blank"><img src="https://img.shields.io/twitter/follow/constbrian?logo=twitter&style=for-the-badge" alt="constbrian" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, ml**
+- 🌱 I’m currently learning ml**
 
 - 📫 How to reach me **brianmsyamboza@gmail.com**
 
